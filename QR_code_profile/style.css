@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(206, 207, 207);
+}
+#main{
+    height: 380px;
+    width: 260px;
+    border: 2px solid white ;
+    border-radius: 10px;
+    margin-left: 650px;
+    margin-top: 180px;
+    background-color: white;
+    box-shadow: 3px 3px 5px 5px rgb(133, 132, 132);
+}
+#photo{
+    height: 200px;
+    width: auto;
+    padding: 20px;
+}
+#data{
+    height: auto;
+    width: auto;
+    margin-top: 0px;
+}
